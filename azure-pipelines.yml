@@ -6,7 +6,7 @@
 stages:
 
   - stage: Build
-    display: Build
+    displayName: Build
     jobs:
 
     - job: Linux 
